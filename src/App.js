@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBar from "./components/Navbar";
 import Details from "./components/Details";
 import ProductList from "./components/ProductList";
-import Product from "./components/Product";
 import Default from "./components/Default";
 import {Route} from "react-router-dom";
 import Modal from './components/Modal';

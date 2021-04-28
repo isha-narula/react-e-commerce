@@ -1,5 +1,5 @@
 import Product from "./Product";
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 import Title from './Title';
 import {ProductConsumer} from "../context";
 

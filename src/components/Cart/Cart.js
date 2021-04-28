@@ -3,7 +3,6 @@ import Title from '../Title';
 import CartColumns from './CartColumns';
 import EmptyCart from "./EmptyCart";
 import {ProductConsumer} from "../../context";
-import {Fragment} from "react-router-dom"
 import CartList from './CartList';
 import CartTotals from './CartTotals';
 
