@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project was deployed on netlify
+
+You can check this out here!!
+
+https://fervent-elion-162f9e.netlify.app/
 
 ## Available Scripts
 
